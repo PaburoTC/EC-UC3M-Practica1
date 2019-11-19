@@ -1,0 +1,372 @@
+{
+  "instructions_binary": [
+    {
+      "Break": null,
+      "Address": "0x0",
+      "Label": "calcular",
+      "loaded": "00100111101111011111111111111100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": true
+    },
+    {
+      "Break": null,
+      "Address": "0x4",
+      "Label": "",
+      "loaded": "10101111101100000000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x8",
+      "Label": "",
+      "loaded": "00100111101111011111111111111100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0xc",
+      "Label": "",
+      "loaded": "10101111101100010000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x10",
+      "Label": "",
+      "loaded": "00100111101111011111111111111100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x14",
+      "Label": "",
+      "loaded": "10101111101100100000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x18",
+      "Label": "",
+      "loaded": "00100000000100001111111111111111",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x1c",
+      "Label": "",
+      "loaded": "00011100110000000000000000001000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x20",
+      "Label": "",
+      "loaded": "00000010000000000001000000100000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x24",
+      "Label": "",
+      "loaded": "10001111101100100000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x28",
+      "Label": "",
+      "loaded": "00100111101111010000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x2c",
+      "Label": "",
+      "loaded": "10001111101100010000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x30",
+      "Label": "",
+      "loaded": "00100111101111010000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x34",
+      "Label": "",
+      "loaded": "10001111101100000000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x38",
+      "Label": "",
+      "loaded": "00100111101111010000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x3c",
+      "Label": "",
+      "loaded": "00000011111000000000000000001000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x40",
+      "Label": "fin_error_calcular_symbol",
+      "loaded": "00100000000100000000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x44",
+      "Label": "",
+      "loaded": "00100000000000100000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x48",
+      "Label": "bucle1_calcular_symbol",
+      "loaded": "00010010000001010000000000001010",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x4c",
+      "Label": "",
+      "loaded": "00100000000100010000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x50",
+      "Label": "bucle2_calcular_symbol",
+      "loaded": "00010010001001100000000000000110",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x54",
+      "Label": "",
+      "loaded": "10001100100100100000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x58",
+      "Label": "",
+      "loaded": "00010100111100100000000000000001",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x5c",
+      "Label": "",
+      "loaded": "00100000010000100000000000000001",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x60",
+      "Label": "no_iguales_symbol",
+      "loaded": "00100000100001000000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x64",
+      "Label": "",
+      "loaded": "00100010001100010000000000000001",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x68",
+      "Label": "",
+      "loaded": "00001000000000000000000001010000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x6c",
+      "Label": "fin2_calcular_symbol",
+      "loaded": "00100010000100000000000000000001",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x70",
+      "Label": "",
+      "loaded": "00001000000000000000000001001000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x74",
+      "Label": "fin1_calcular_symbol",
+      "loaded": "10001111101100100000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x78",
+      "Label": "",
+      "loaded": "00100111101111010000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x7c",
+      "Label": "",
+      "loaded": "10001111101100010000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x80",
+      "Label": "",
+      "loaded": "00100111101111010000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x84",
+      "Label": "",
+      "loaded": "10001111101100000000000000000000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x88",
+      "Label": "",
+      "loaded": "00100111101111010000000000000100",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x8c",
+      "Label": "",
+      "loaded": "00000011111000000000000000001000",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    }
+  ],
+  "instructions_tag": [
+    {
+      "tag": "calcular",
+      "addr": 0,
+      "globl": true
+    },
+    {
+      "tag": "fin_error_calcular_symbol",
+      "addr": 64,
+      "globl": false
+    },
+    {
+      "tag": "bucle1_calcular_symbol",
+      "addr": 72,
+      "globl": false
+    },
+    {
+      "tag": "bucle2_calcular_symbol",
+      "addr": 80,
+      "globl": false
+    },
+    {
+      "tag": "no_iguales_symbol",
+      "addr": 96,
+      "globl": false
+    },
+    {
+      "tag": "fin2_calcular_symbol",
+      "addr": 108,
+      "globl": false
+    },
+    {
+      "tag": "fin1_calcular_symbol",
+      "addr": 116,
+      "globl": false
+    }
+  ]
+}
